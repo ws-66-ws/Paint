@@ -27,12 +27,6 @@ Win32/
 *.vcxproj.user
 *.suo
 
-# 工具配置目录
-.trae/
-
-# PowerShell 脚本
-*.ps1
-
 # 可执行文件和调试文件
 *.exe
 *.dll
