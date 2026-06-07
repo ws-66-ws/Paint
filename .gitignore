@@ -1,0 +1,40 @@
+# Visual Studio 编译输出
+x64/
+Debug/
+Release/
+ARM/
+ARM64/
+Win32/
+
+# 编译中间文件
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.log
+*.res
+*.recipe
+*.Build.CppClean.log
+
+# Visual Studio IDE 缓存
+.vs/
+
+# 资源编辑器二进制缓存
+*.aps
+
+# 用户特定配置
+*.vcxproj.user
+*.suo
+
+# 工具配置目录
+.trae/
+
+# PowerShell 脚本
+*.ps1
+
+# 可执行文件和调试文件
+*.exe
+*.dll
+*.lib
+*.exp
